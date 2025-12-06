@@ -1,5 +1,5 @@
 ## Hi there 👋
-```bash
+```yaml
 name: Warintara Munsup
 located_in: Paris, France
 education:
